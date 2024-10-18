@@ -16,7 +16,8 @@ void func(int i, int n){
 int main(){
   
   
-  int n = 4;
+  int n = 4;// here u can change the number if needed
+ 
   func(n,n);
   return 0;
 
